@@ -1,2 +1,2 @@
 # Project-Development
-This repository is to explore 
+This repository is to explore the application
